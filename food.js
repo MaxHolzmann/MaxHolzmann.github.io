@@ -9,9 +9,9 @@ function getRandomInt(min, max) {
 var all = ["McDonalds", "Culvers", "Lil Ceasers", "Taco Bell", "Taco Johns", "Pizza Ranch", "Jet's Pizza",
 "Burger King", "Dunkin' Donuts", "Kentucky Fried Chicken", "Fazoli's", "Backyard Bar and Grill"];
 
-var pizzaplaces = ["Lil Ceasers", "Pizza Ranch", "Jet's Pizza"];
+var pizzaplaces = ["Lil Ceasers", "Pizza Ranch", "Jet's Pizza", "Dominoes"];
 
-var fastfoods = ["McDonalds", "Culvers", "Taco Bell", "Taco Johns", "Burger King", "Kentucky Fried Chicken"];
+var fastfoods = ["McDonalds", "Culvers", "Taco Bell", "Taco Johns", "Burger King", "Kentucky Fried Chicken", "Panda Express", "Hardees"];
 
 var restur = ["Backyard Bar & Grill", "Fat Joes", "Applebees"];
 
