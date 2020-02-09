@@ -1,1 +1,7 @@
-{}
+{
+    "red": {
+        "name": "Red Knight",
+        "data": "This is test data from JSON garbo."
+    }
+
+}
