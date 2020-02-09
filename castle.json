@@ -2,6 +2,10 @@
     "red": {
         "name": "Red Knight",
         "data": "This is test data from JSON garbo."
+    },
+    "blue": {
+        "name": "Blue Knight",
+        "data": "Blue Knight data"
     }
 
 }
